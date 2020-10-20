@@ -1,0 +1,9 @@
+# we can use file nam which we want to ignore
+
+application.log
+
+
+# We Can also use Exact type of file using expresion
+
+
+*.log
