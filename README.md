@@ -1,3 +1,3 @@
 THis is a simple readme file
 
-MMMMMMM
+THIS is a very bad merge
